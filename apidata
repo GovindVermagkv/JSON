@@ -1,7 +1,8 @@
-
+data=[
 {
 "Totalcases":640670387,
 "Totaldeaths":6616647,
 "Totalrecovered":620454209,
 }
+]
 
