@@ -1,4 +1,5 @@
 [
-{"series":["640,670,387","6,616,647","620,454,209"]},
-{"value":["Cases","Deaths","Recovered"]}
+{"series":"640,670,387" ,"value":"cases"},
+{"series":"640,670," ,"value":"death"},
+{"series":"6420,670,387" ,"value":"recovered"}
 ]
