@@ -1,5 +1,5 @@
 [
-{"series":"640,670,387" ,"value":"cases"},
-{"series":"640,670," ,"value":"death"},
-{"series":"6420,670,387" ,"value":"recovered"}
+{"series":640,670,387 ,"value":"cases"},
+{"series":640,670 ,"value":"death"},
+{"series":6420,670,387,"value":"recovered"}
 ]
