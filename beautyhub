@@ -1,0 +1,42 @@
+{
+  "shop": {
+    "id": 1,
+    "name": "ABC Store",
+    "gst_number": "12345",
+    "address": "123 Main St, Anytown USA",
+    "images": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
+    "owner": "John Doe"
+  },
+  "testimonials": [
+    {
+      "id": 1,
+      "summary": "Great service!",
+      "user_name": "Jane Doe",
+      "images": ["https://example.com/user1.jpg"]
+    },
+    {
+      "id": 2,
+      "summary": "Awesome products!",
+      "user_name": "Bob Smith",
+      "images": ["https://example.com/user2.jpg"]
+    }
+  ],
+  "gallery": [
+    "https://example.com/gallery1.jpg",
+    "https://example.com/gallery2.jpg",
+    "https://example.com/gallery3.jpg",
+    "https://example.com/gallery4.jpg",
+    "https://example.com/gallery5.jpg",
+    "https://example.com/gallery6.jpg",
+    "https://example.com/gallery7.jpg",
+    "https://example.com/gallery8.jpg",
+    "https://example.com/gallery9.jpg",
+    "https://example.com/gallery10.jpg"
+  ],
+  "services": {
+    "id": 1,
+    "category": "Clothing",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  }
+}
