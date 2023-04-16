@@ -1,42 +1,151 @@
 {
-  "shop": {
-    "id": 1,
-    "name": "ABC Store",
-    "gst_number": "12345",
-    "address": "123 Main St, Anytown USA",
-    "images": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
-    "owner": "John Doe"
-  },
+  "shop": [
+   {
+  "id": 1,
+  "name": "Fashion World",
+  "gst_number": "98765",
+  "address": "1234 Elm Street, Anytown USA",
+  "images": ["https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg", "https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpgg"],
+  "owner": "Jane Smith"
+},
+{
+  "id": 2,
+  "name": "Tech Hub",
+  "gst_number": "54321",
+  "address": "5678 Maple Avenue, Anytown USA",
+  "images": ["https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg", "https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg"],
+  "owner": "John Doe"
+},
+{
+  "id": 3,
+  "name": "Green Earth",
+  "gst_number": "12345",
+  "address": "9012 Oak Street, Anytown USA",
+  "images": ["https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg", "https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg"],
+  "owner": "Alice Johnson"
+},
+{
+  "id": 4,
+  "name": "Pet Palace",
+  "gst_number": "67890",
+  "address": "3456 Pine Road, Anytown USA",
+  "images": ["https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg", "https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg"],
+  "owner": "Bob Anderson"
+},
+{
+  "id": 5,
+  "name": "Home Essentials",
+  "gst_number": "24680",
+  "address": "7890 Birch Lane, Anytown USA",
+  "images": ["https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg", "https://thumbs.dreamstime.com/b/interior-empty-modern-hair-beauty-salon-decorated-gray-fuchsia-colors-51874829.jpg"],
+  "owner": "Sarah Lee"
+}
+
+  ],
   "testimonials": [
     {
       "id": 1,
       "summary": "Great service!",
       "user_name": "Jane Doe",
-      "images": ["https://example.com/user1.jpg"]
+      "images": ["https://w0.peakpx.com/wallpaper/544/880/HD-wallpaper-sonam-kapoor-indian-actress-makeup-brunette-bollywood-black-dress-beautiful-woman.jpg"]
     },
     {
       "id": 2,
       "summary": "Awesome products!",
       "user_name": "Bob Smith",
-      "images": ["https://example.com/user2.jpg"]
+      "images": ["https://w0.peakpx.com/wallpaper/544/880/HD-wallpaper-sonam-kapoor-indian-actress-makeup-brunette-bollywood-black-dress-beautiful-woman.jpg"]
+    },
+     {
+      "id": 3,
+      "summary": "Awesome products!",
+      "user_name": "Bob Smith",
+      "images": ["https://w0.peakpx.com/wallpaper/544/880/HD-wallpaper-sonam-kapoor-indian-actress-makeup-brunette-bollywood-black-dress-beautiful-woman.jpg"]
+    },
+     {
+      "id": 4,
+      "summary": "Awesome products!",
+      "user_name": "Bob Smith",
+      "images": ["https://w0.peakpx.com/wallpaper/544/880/HD-wallpaper-sonam-kapoor-indian-actress-makeup-brunette-bollywood-black-dress-beautiful-woman.jpg"]
+    },
+     {
+      "id": 5,
+      "summary": "Awesome products!",
+      "user_name": "Bob Smith",
+      "images": ["https://w0.peakpx.com/wallpaper/544/880/HD-wallpaper-sonam-kapoor-indian-actress-makeup-brunette-bollywood-black-dress-beautiful-woman.jpg"]
     }
   ],
   "gallery": [
-    "https://example.com/gallery1.jpg",
-    "https://example.com/gallery2.jpg",
-    "https://example.com/gallery3.jpg",
-    "https://example.com/gallery4.jpg",
-    "https://example.com/gallery5.jpg",
-    "https://example.com/gallery6.jpg",
-    "https://example.com/gallery7.jpg",
-    "https://example.com/gallery8.jpg",
-    "https://example.com/gallery9.jpg",
-    "https://example.com/gallery10.jpg"
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg","https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://w0.peakpx.com/wallpaper/811/5/HD-wallpaper-zarin-khan-on-pakistani-bridal-makeup-indian-bridal-makeup-bridal-makeup-thumbnail.jpg",
+    "https://c4.wallpaperflare.com/wallpaper/322/317/310/look-face-style-portrait-makeup-hd-wallpaper-preview.jpg"
   ],
-  "services": {
+  "services": [
+  {
     "id": 1,
-    "category": "Clothing",
+    "category": "makup",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  },
+  {
+    "id": 2,
+    "category": "haircut",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  },
+  {
+    "id": 3,
+    "category": "clasical",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  },
+  {
+    "id": 4,
+    "category": "bride and groom",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  },
+  {
+    "id": 5,
+    "category": "spa",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  },{
+    "id": 6,
+    "category": "massage",
+    "image": "https://example.com/clothing.jpg",
+    "description": "We offer a wide variety of clothing for all ages and sizes."
+  },
+  {
+    "id": 7,
+    "category": "hair wash",
     "image": "https://example.com/clothing.jpg",
     "description": "We offer a wide variety of clothing for all ages and sizes."
   }
+]
 }
